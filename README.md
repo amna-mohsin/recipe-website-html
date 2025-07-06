@@ -1,4 +1,4 @@
-# Simple Recipe Website (HTML Only)
+# Simple Recipe Website
 
 This is a beginner-friendly **Recipe Website** created using only **HTML**. It features a collection of recipes with images, ingredients, and step-by-step instructions.
 
